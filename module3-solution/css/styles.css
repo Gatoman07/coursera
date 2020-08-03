@@ -1,0 +1,70 @@
+h1{
+  font-size: 2em;
+  color: #fff;
+  margin: 0;
+}
+
+h1:hover{
+  font-weight: bold;
+}
+
+.navbar-brand a:hover{
+  text-decoration: none;
+}
+
+.navbar-brand{
+  padding: 10px;
+  padding-left: 30px;
+  height: 60px;
+}
+
+#header-nav{
+  background: #000;
+}
+
+.row{
+  margin: 20px;
+}
+
+span{
+  color: #fff;
+  background: #fff;
+}
+
+.menu-title{
+  font-size: 3.2em;
+  font-weight: bold;
+  text-align: center;
+  color: green;
+}
+
+.food-name{
+  text-align: center;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 1.7em;
+  color: #000;
+}
+
+.space{
+  border: 2px solid #000;
+  background: lightblue;
+  margin: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+ul{
+  text-align: center;
+}
+
+li:hover{
+  background: blue;
+}
+
+li a{
+  font-size: 1.2em;
+  color: #fff;
+}
